@@ -1,0 +1,14 @@
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.exe
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.deps.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\refint\AboutMyEnvironment.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net7.0\ref\AboutMyEnvironment.dll
