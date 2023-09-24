@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj": {}
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj",
-        "projectName": "Vocabulary",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectName": "Numbers",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
