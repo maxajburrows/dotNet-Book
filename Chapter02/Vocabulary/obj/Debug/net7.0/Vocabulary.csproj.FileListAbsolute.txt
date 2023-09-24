@@ -1,0 +1,14 @@
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfo.cs
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.exe
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.deps.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.runtimeconfig.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\refint\Vocabulary.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.genruntimeconfig.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter02\Vocabulary\obj\Debug\net7.0\ref\Vocabulary.dll

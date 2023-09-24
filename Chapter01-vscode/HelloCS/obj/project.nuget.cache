@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhsoKejXQQE+unPq7dgV3l2+aifsBcGtp6kFuqb3BHyAWEwRIrWjo6pdb9PEXbK/L4AGgWSPvtYlxS/EO/SgOQ==",
+  "dgSpecHash": "KJ5hfZ3aEB7zN4QKR6jkKrsXUH4haLzY5/xUdZC0PdqjNhu4tZf/aXVzM1O9fgKEppSAo/IpHgDBKiq+gIfV+Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
+  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

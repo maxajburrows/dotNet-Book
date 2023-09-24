@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj": {}
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
-        "projectName": "HelloCS",
-        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+        "projectName": "Vocabulary",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\Vocabulary.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter01-vscode\\HelloCS\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Vocabulary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
