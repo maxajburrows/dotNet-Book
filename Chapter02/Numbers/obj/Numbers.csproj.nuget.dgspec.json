@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {}
+    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {
+    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\obj\\",
+        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
