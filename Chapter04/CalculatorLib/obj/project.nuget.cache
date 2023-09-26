@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1Bv9+IHlakBvnyc79v1Uh+pMVDw7sgQbZJ2eXXXOXjlXzKcJtMQw+BxUy+GsCD53qNKJVk1NgYdS5rNv9YhOA==",
+  "dgSpecHash": "XTrF3gaeTPK1nba+IEMvKgQjlZyxlG6ssTTioL8OCrgZK2on0snxckSDjmgU0fNHqi2ORswowsI14kgc85/g9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

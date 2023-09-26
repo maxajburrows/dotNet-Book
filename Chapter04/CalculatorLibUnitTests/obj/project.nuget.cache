@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmlSOW9Ne91ukY0V5p9/46zdpP2mNmCEUUuTP/1kw8idcPeV3lg9xkP6GiZ18MZcQi/YHU+/ktiWF4okqgPeJA==",
+  "dgSpecHash": "xLzcO2oc4J8eE6WRpV86GJvOXDY2utuWlLIT/j7FrcCn/BfSunI/N6jcxpO0gCtWakZ5k+IrT4U4vQjorCFzzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxaj\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\maxaj\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
