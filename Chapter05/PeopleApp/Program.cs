@@ -117,3 +117,14 @@ sam.FavouriteIceCream = "Chocolate Fudge";
 WriteLine($"Sam's favorite ice-cream flavor is {sam.FavouriteIceCream}.");
 sam.FavoritePrimaryColor = "Red";
 WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
+
+// Book book = new();
+// book.Title = "C# 11 and .NET 7 - Modern Cross-Platform Development";
+
+sam.Children.Add(new() { Name = "Charlie", DateOfBirth = new(2010, 3, 18)});
+sam.Children.Add(new() { Name = "Ella", DateOfBirth = new(2020, 12, 24)} );
+WriteLine($"Sam's first child is {sam.Children[0].Name}");
+WriteLine($"Sam's second child is {sam.Children[1].Name}");
+WriteLine($"Sam's first child is {sam[0].Name}.");
+WriteLine($"Sam's second child is {sam[1].Name}.");
+WriteLine($"Sam's child named Ella is {sam["Ella"].Age} years old.");
