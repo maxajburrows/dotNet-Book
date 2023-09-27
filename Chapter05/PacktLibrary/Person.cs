@@ -6,4 +6,5 @@ public class Person: object
     public DateTime DateOfBirth;
     public WondersOfTheAncientWorld FavouriteAncientWonder;
     public WondersOfTheAncientWorld BucketList;
+    public List<Person> Children = new();
 }

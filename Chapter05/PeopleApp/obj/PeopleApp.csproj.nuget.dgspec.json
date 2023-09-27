@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj": {}
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj",
         "projectName": "PeopleApp",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\PeopleApp.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PeopleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -82,8 +82,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
-                "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
+              "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
               }
             }
           }
