@@ -159,3 +159,5 @@ for (int i = 0; i < lamech.Children.Count; i++)
     WriteLine(format: "{0}'s child #{1} is named \"{2}\".",
         arg0: lamech.Name, arg1: i, arg2: lamech[i].Name);
 }
+
+WriteLine($"5! is {Person.Factorial(5)}");
