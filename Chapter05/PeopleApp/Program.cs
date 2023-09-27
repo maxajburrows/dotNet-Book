@@ -27,6 +27,7 @@ foreach(Person child in max.Children)
     WriteLine($"> {child.Name}");
 }
 WriteLine($"{max.Name} is a {Person.Species}");
+WriteLine($"{max.Name} was born on {max.HomePlanet}");
 
 
 Person alice = new()
