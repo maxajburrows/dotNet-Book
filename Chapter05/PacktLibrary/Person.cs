@@ -1,6 +1,6 @@
 namespace Packt.Shared;
 
-public class Person: object
+public partial class Person: object
 {
     public string? Name;
     public DateTime DateOfBirth;
@@ -62,6 +62,27 @@ public class Person: object
         x++;
         y++;
         z++;
+    }
+    private string? favoritePrimaryColor;
+    public string? FavoritePrimaryColor
+    {
+        get
+        {
+            return favoritePrimaryColor;
+        }
+        set
+        {
+            switch(value?.ToLower())
+            {
+                case "red":
+                case "green":
+                case "blue":
+                    favoritePrimaryColor = value;
+                    break;
+                default:
+                    throw new ArgumentException($"{value} is not a primary color. Choose from: red, green, blue.");
+            }
+        }
     }
 
 }

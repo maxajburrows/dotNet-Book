@@ -103,3 +103,17 @@ int e = 20;
 WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet!");
 max.PassingParameters(d, ref e, out int f);
 WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
+Person sam = new()
+{
+    Name = "Sam",
+    DateOfBirth = new(1969, 6, 25)
+};
+WriteLine(sam.Origin);
+WriteLine(sam.Greeting);
+WriteLine(sam.Age);
+
+sam.FavouriteIceCream = "Chocolate Fudge";
+WriteLine($"Sam's favorite ice-cream flavor is {sam.FavouriteIceCream}.");
+sam.FavoritePrimaryColor = "Red";
+WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
