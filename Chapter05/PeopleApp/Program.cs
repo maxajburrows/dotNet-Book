@@ -134,7 +134,11 @@ Person lamech = new() { Name = "Lamech" };
 Person adah = new() { Name = "Adah" };
 Person zillah = new() { Name = "Zillah" };
 lamech.Marry(adah);
-Person.Marry(zillah, lamech);
+// Person.Marry(zillah, lamech);
+if (zillah + lamech)
+{
+    WriteLine($"{zillah.Name} and {lamech.Name} successfully got married.");
+}
 WriteLine($"{lamech.Name} is married to {lamech.Spouse?.Name ?? "nobody"}");
 WriteLine($"{adah.Name} is married to {adah.Spouse?.Name ?? "nobody"}");
 WriteLine($"{zillah.Name} is married to {zillah.Spouse?.Name ?? "nobody"}");
@@ -143,6 +147,10 @@ baby1.Name = "Jabal";
 WriteLine($"{baby1.Name} was born on {baby1.DateOfBirth}");
 Person baby2 = Person.Procreate(zillah, lamech);
 baby2.Name = "Tubalcain";
+Person baby3 = lamech * adah;
+baby3.Name = "Jubal";
+Person baby4 = zillah * lamech;
+baby4.Name = "Naamah";
 WriteLine($"{lamech.Name} has {lamech.Children.Count} children.");
 WriteLine($"{adah.Name} has {adah.Children.Count} children.");
 WriteLine($"{zillah.Name} has {zillah.Children.Count} children.");
