@@ -87,3 +87,6 @@ var (name1, dob1) = max;
 WriteLine($"Deconstructed: {name1}, {dob1}");
 var (name2, dob2, fav2) = max;
 WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
+
+WriteLine(max.SayHello());
+WriteLine(max.SayHello("Emily"));

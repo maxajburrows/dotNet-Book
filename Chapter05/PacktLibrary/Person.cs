@@ -48,4 +48,12 @@ public class Person: object
         dob = DateOfBirth;
         fav = FavouriteAncientWonder;
     }
+    public string SayHello()
+    {
+        return $"{Name} says 'Hello!'";
+    }
+public string SayHello(string name)
+    {
+        return $"{Name} says 'Hello, {name}!'"; 
+    }
 }
