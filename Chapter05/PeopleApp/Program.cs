@@ -68,3 +68,6 @@ WriteLine(format: "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
 
 max.WriteToConsole();
 WriteLine(max.GetOrigin());
+
+(string, int) fruit = max.GetFruit();
+WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
