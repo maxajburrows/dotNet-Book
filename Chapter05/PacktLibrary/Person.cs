@@ -9,4 +9,10 @@ public class Person: object
     public List<Person> Children = new();
     public const string Species = "Homo Sapiens";
     public readonly string HomePlanet = "Earth";
+    public readonly DateTime Instantiated;
+    public Person()
+    {
+        Name = "Unknown";
+        Instantiated = DateTime.Now;
+    }
 }

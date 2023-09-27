@@ -52,3 +52,10 @@ gerrierAccount.Balance = 98;
 WriteLine(format: "{0} earned {1:C} interest.",
 arg0: gerrierAccount.AccountName,
 arg1: gerrierAccount.Balance * BankAccount.InterestRate);
+
+Person blankPerson = new();
+WriteLine(format:
+    "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
+    arg0: blankPerson.Name,
+    arg1: blankPerson.HomePlanet,
+    arg2: blankPerson.Instantiated);
