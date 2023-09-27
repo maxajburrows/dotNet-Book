@@ -52,8 +52,16 @@ public class Person: object
     {
         return $"{Name} says 'Hello!'";
     }
-public string SayHello(string name)
+    public string SayHello(string name)
     {
         return $"{Name} says 'Hello, {name}!'"; 
     }
+    public void PassingParameters(int x, ref int y, out int z)
+    {
+        z = 99;
+        x++;
+        y++;
+        z++;
+    }
+
 }

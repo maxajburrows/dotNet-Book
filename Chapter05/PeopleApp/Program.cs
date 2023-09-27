@@ -90,3 +90,16 @@ WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
 
 WriteLine(max.SayHello());
 WriteLine(max.SayHello("Emily"));
+
+int a = 10;
+int b = 20;
+int c = 30;
+WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+max.PassingParameters(a, ref b, out c);
+WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+int d = 10;
+int e = 20; 
+WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet!");
+max.PassingParameters(d, ref e, out int f);
+WriteLine($"After: d = {d}, e = {e}, f = {f}");
