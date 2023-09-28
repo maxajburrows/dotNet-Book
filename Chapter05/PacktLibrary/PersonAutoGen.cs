@@ -1,5 +1,3 @@
-using System.Net.NetworkInformation;
-
 namespace Packt.Shared;
 
 public partial class Person 
