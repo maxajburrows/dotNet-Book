@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 namespace Packt.Shared;
 
 public class Northwind : DbContext
@@ -14,6 +15,9 @@ public class Northwind : DbContext
         WriteLine($"Connection: {connection}");
         ForegroundColor = previousColor;
         optionsBuilder.UseSqlite(connection);
+        optionsBuilder.LogTo(WriteLine, 
+            new[] { RelationalEventId.CommandExecuting })
+            .EnableSensitiveDataLogging();
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

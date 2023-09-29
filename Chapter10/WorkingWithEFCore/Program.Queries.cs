@@ -40,6 +40,7 @@ partial class Program
                 Fail("No categories found.");
                 return;
             }
+            Info($"ToQueryString: {categories.ToQueryString()}");
             foreach (Category c in categories)
             {
                 WriteLine($"{c.CategoryName} has {c.Products.Count} products with a minimum of {stock} units");
@@ -70,6 +71,7 @@ partial class Program
                 Fail("No products found.");
                 return;
             }
+            Info($"ToQueryString: {products.ToQueryString()}");
             foreach (Product p in products)
             {
                 WriteLine(
