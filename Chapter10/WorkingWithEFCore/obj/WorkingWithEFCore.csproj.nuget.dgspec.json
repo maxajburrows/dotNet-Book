@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "projectName": "WorkingWithEFCore",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.0, )"
