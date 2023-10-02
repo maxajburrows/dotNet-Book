@@ -44,4 +44,15 @@ partial class Program
         return (affected, p.ProductId);
         }
     }
+    static (int affected, int productId) IncreaseProductPrice(string productNameStartsWith, decimal amount)
+    {
+        using (Northwind db = new())
+        {
+            Product updateProduct = db.Products
+                .First(p => p.ProductName.StartsWith(productNameStartsWith));
+            updateProduct.Cost += amount;
+            int affected = db.SaveChanges();
+            return (affected, updateProduct.ProductId);
+        }
+    }
 }

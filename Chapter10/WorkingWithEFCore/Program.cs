@@ -11,3 +11,9 @@
 //     WriteLine("Add product successful.");
 // }
 // ListProducts(productIdToHighlight: resultAdd.productId);
+var resultUpdate = IncreaseProductPrice(productNameStartsWith: "Bob", amount: 20M);
+if (resultUpdate.affected == 1)
+{
+    WriteLine("Increase product price successful.");
+}
+ListProducts(productIdToHighlight: resultUpdate.productId);
