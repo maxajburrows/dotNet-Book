@@ -18,6 +18,7 @@ public class Northwind : DbContext
         optionsBuilder.LogTo(WriteLine, 
             new[] { RelationalEventId.CommandExecuting })
             .EnableSensitiveDataLogging();
+        optionsBuilder.UseLazyLoadingProxies();
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -1,7 +1,7 @@
 ﻿using Packt.Shared;
 
-// QueryingCategories();
+QueryingCategories();
 // FilteredIncludes();
 // QueryingProducts();
-QueryingWithLike();
+// QueryingWithLike();
 //GetRandomProduct();
