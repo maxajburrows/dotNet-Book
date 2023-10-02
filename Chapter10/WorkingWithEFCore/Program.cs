@@ -18,14 +18,14 @@
 // }
 // ListProducts(productIdToHighlight: resultUpdate.productId);
 // WriteLine("About to delete all products whose name starts with Bob.");
-// Write("Press Enter to continue: ");
-// if (ReadKey(intercept: true).Key == ConsoleKey.Enter)
-// {
-//     int deleted = DeleteProducts(productNameStartsWith: "Bob");
-//     WriteLine($"{deleted} product(s) were deleted.");
-// }
-// else
-// {
-//     WriteLine("Delete was cancelled.");
-// }
-ListProducts();
+Write("Press Enter to continue: ");
+if (ReadKey(intercept: true).Key == ConsoleKey.Enter)
+{
+    int deleted = DeleteProducts(productNameStartsWith: "Bob");
+    WriteLine($"{deleted} product(s) were deleted.");
+}
+else
+{
+    WriteLine("Delete was cancelled.");
+}
+// ListProducts();
