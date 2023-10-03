@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
+    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
+    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "projectName": "WorkingWithEFCore",
-        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\obj\\",
+        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
