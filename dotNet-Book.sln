@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApp", "Chapter05\PeopleApp\PeopleApp.csproj", "{CA7E4E91-9EA4-45DF-9859-AD2159DA2DE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesAndStudents", "Chapter10\CoursesAndStudents\CoursesAndStudents.csproj", "{9DAAF6D4-C04C-4695-89D0-999737BBF921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{CA7E4E91-9EA4-45DF-9859-AD2159DA2DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7E4E91-9EA4-45DF-9859-AD2159DA2DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7E4E91-9EA4-45DF-9859-AD2159DA2DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAAF6D4-C04C-4695-89D0-999737BBF921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAAF6D4-C04C-4695-89D0-999737BBF921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAAF6D4-C04C-4695-89D0-999737BBF921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAAF6D4-C04C-4695-89D0-999737BBF921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +104,7 @@ Global
 		{3B1F2A7F-68F7-47A2-AABA-F04A218C7CA8} = {8EADB1B9-224B-47CD-99E0-B473C956D3FA}
 		{6A8C9FB1-537A-4004-BE1F-340BD736E68B} = {8EADB1B9-224B-47CD-99E0-B473C956D3FA}
 		{CA7E4E91-9EA4-45DF-9859-AD2159DA2DE8} = {4ABB9575-8163-44B7-BC1A-06CB414BCAD7}
+		{9DAAF6D4-C04C-4695-89D0-999737BBF921} = {CC682EDA-4E4B-4E6E-BCAB-9A66B7B12B98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7975DF0C-231C-426C-8E23-B2FE1E8D5C99}

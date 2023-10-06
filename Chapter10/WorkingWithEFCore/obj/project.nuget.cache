@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/cc803K6MMQfMljpesSmafeIF2xkFYUt74W/KHenI3UB8weZCMuzygOeV5cbm3SAHlwRlTlfUYYz58hPbuQdow==",
+  "dgSpecHash": "83FmmVEUkqSDwmme5lX9/k7SLuEgKAxuff5bWOxFNNc4eUN1WdINDGW1rxS7M8RIke/gJTfoaWu8+gyyD3BFvA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxaj\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\maxaj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

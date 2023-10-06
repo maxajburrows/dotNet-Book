@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {}
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
         "projectName": "CalculatorLibUnitTests",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLibUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
-                "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj"
+              "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
+                "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
+    "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+        "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
         "projectName": "CalculatorLib",
-        "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+        "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
         "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\obj\\",
+        "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter04\\CalculatorLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7UqBWL6vFd40wwcqGiF9/Z7pYtMivcb7N0LIPWdPw+5aIBTrnMmHoE/4bjUmrWdEsxUe/YZpw8TjilCPAa+Gdw==",
+  "dgSpecHash": "D3EwWiFAwATam5jqsTPCcrYbF7VyNzEhIyMP3cmEIsEKjL2/ZBXQAN4/mCVVKDmkF+lrK8sIYUlYRkvG5+TRCQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\dotNet-Book\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
