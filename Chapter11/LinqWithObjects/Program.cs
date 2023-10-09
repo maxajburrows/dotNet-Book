@@ -16,7 +16,11 @@ foreach (string name in query1)
 }
 
 SectionTitle("Writing queries");
-var query = names.Where(new Func<string, bool>(NameLongerThanFour));
+//var query = names.Where(new Func<string, bool>(NameLongerThanFour));
+var query = names
+    .Where(name => name.Length > 4)
+    .OrderBy(name => name.Length)
+    .ThenBy(name => name);
 foreach (string item in query)
 {
     WriteLine(item);
