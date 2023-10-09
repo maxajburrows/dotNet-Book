@@ -1,0 +1,14 @@
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.exe
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.deps.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.runtimeconfig.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\bin\Debug\net7.0\LinqWithObjects.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.AssemblyInfo.cs
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\refint\LinqWithObjects.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\LinqWithObjects.genruntimeconfig.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqWithObjects\obj\Debug\net7.0\ref\LinqWithObjects.dll
