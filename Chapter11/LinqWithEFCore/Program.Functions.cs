@@ -1,6 +1,7 @@
 using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using static System.Console;
+using SQLitePCL;
 
 partial class Program
 {
@@ -10,7 +11,8 @@ partial class Program
         using (Northwind db = new())
         {
             DbSet<Product> allProducts = db.Products;
-            IQueryable<Product> filteredProducts = allProducts
+            IQueryable<Product> processedProducts = allProducts.ProcessSequence();
+            IQueryable<Product> filteredProducts = processedProducts
                 .Where(product => product.UnitPrice < 10M);
             IOrderedQueryable<Product> sortedAndFilteredProducts = filteredProducts
                 .OrderByDescending(product => product.UnitPrice);
@@ -107,6 +109,32 @@ partial class Program
             WriteLine("{0,-25} {1,10:$#,##0.00}",
                 arg0: "Value of units in stock:",
                 arg1: db.Products.Sum(p => p.UnitPrice * p.UnitsInStock));
+        }
+    }
+
+    static void CustomExtensionMethods()
+    {
+        SectionTitle("Custom aggregate extension methods");
+        using (Northwind db = new())
+        {
+            WriteLine("{0,-25} {1,10:N0}",
+                "Mean units in stock:",
+                db.Products.Average(p => p.UnitsInStock));
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Mean unit price:",
+                db.Products.Average(p => p.UnitPrice));
+            WriteLine("{0,-25} {1,10:N0}",
+                "Median units in stock:",
+                db.Products.Median(p => p.UnitsInStock));
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Median unit price:",
+                db.Products.Median(p => p.UnitPrice));
+            WriteLine("{0,-25} {1,10:N0}",
+                "Mode units in stock:",
+                db.Products.Mode(p => p.UnitsInStock));
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Mode unit price:",
+                db.Products.Mode(p => p.UnitPrice));
         }
     }
 }
