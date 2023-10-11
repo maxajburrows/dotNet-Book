@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithEFCore", "Chapter11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInParallel", "Chapter11\LinqInParallel\LinqInParallel.csproj", "{F391248F-35E0-4FDD-AD4F-FC20EB922CAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{9526B9B4-E4C1-4D9D-A2D6-EA530F3416D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssembliesAndNamespaces", "Chapter07\AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +113,10 @@ Global
 		{F391248F-35E0-4FDD-AD4F-FC20EB922CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F391248F-35E0-4FDD-AD4F-FC20EB922CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F391248F-35E0-4FDD-AD4F-FC20EB922CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,6 +136,7 @@ Global
 		{4D438924-CE28-49A5-85C8-0FE5FD54BA99} = {CAEA00B5-05C3-45BA-9ADA-7FA52A721B2A}
 		{C8596EDB-9FE3-4B72-B539-67119DE04D36} = {CAEA00B5-05C3-45BA-9ADA-7FA52A721B2A}
 		{F391248F-35E0-4FDD-AD4F-FC20EB922CAD} = {CAEA00B5-05C3-45BA-9ADA-7FA52A721B2A}
+		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F} = {9526B9B4-E4C1-4D9D-A2D6-EA530F3416D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7975DF0C-231C-426C-8E23-B2FE1E8D5C99}
