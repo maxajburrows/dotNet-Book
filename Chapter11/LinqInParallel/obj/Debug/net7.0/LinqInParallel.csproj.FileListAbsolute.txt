@@ -1,0 +1,14 @@
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.exe
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.deps.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.runtimeconfig.json
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.AssemblyInfo.cs
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\refint\LinqInParallel.dll
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.pdb
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.genruntimeconfig.cache
+C:\Users\maxaj\OneDrive\Desktop\dotNet-Book\Chapter11\LinqInParallel\obj\Debug\net7.0\ref\LinqInParallel.dll
