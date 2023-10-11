@@ -47,6 +47,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssembliesAndNamespaces", "Chapter07\AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "Chapter07\SharedLibrary\SharedLibrary.csproj", "{3CC80D54-F52B-4216-A577-59AC0569D0C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC80D54-F52B-4216-A577-59AC0569D0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC80D54-F52B-4216-A577-59AC0569D0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC80D54-F52B-4216-A577-59AC0569D0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC80D54-F52B-4216-A577-59AC0569D0C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,6 +143,7 @@ Global
 		{C8596EDB-9FE3-4B72-B539-67119DE04D36} = {CAEA00B5-05C3-45BA-9ADA-7FA52A721B2A}
 		{F391248F-35E0-4FDD-AD4F-FC20EB922CAD} = {CAEA00B5-05C3-45BA-9ADA-7FA52A721B2A}
 		{3A69B9D1-07AD-4900-94BB-DC1E437FE36F} = {9526B9B4-E4C1-4D9D-A2D6-EA530F3416D6}
+		{3CC80D54-F52B-4216-A577-59AC0569D0C6} = {9526B9B4-E4C1-4D9D-A2D6-EA530F3416D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7975DF0C-231C-426C-8E23-B2FE1E8D5C99}
