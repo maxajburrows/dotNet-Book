@@ -40,3 +40,16 @@ harry.Poke();
 harry.Poke();
 harry.Poke();
 harry.Poke();
+
+Person?[] people = 
+{
+    null,
+    new() { Name = "Simon" },
+    new() { Name = "Jenny" },
+    new() { Name = "Adam" },
+    new() { Name = null },
+    new() { Name = "Richard" },
+};
+OutputPeopleNames(people, "Initial list of people:");
+Array.Sort(people);
+OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
