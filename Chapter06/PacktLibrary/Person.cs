@@ -8,7 +8,7 @@ public class Person : object
     {
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
     }
-    public EventHandler? Shout;
+    public event EventHandler? Shout;
     public int AngerLevel;
     public void Poke()
     {
